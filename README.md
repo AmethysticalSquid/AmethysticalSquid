@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<img src="https://static.vecteezy.com/system/resources/thumbnails/015/918/284/small/amethyst-mine-tunnel-inside-view-mysterious-cave-free-vector.jpg">
+<h1>Hi there 👋</h1>
+<h4>This isn't my main account, so I won't put much information here</h4>
 <!--
 **AmethysticalSquid/AmethysticalSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
